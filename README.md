@@ -41,6 +41,7 @@ Install the required dependencies
   cp .env.example .env
   setup db
   php artisan migrate --seed
+  php artisan key:generate
 ```
 Start the development server
 ```bash

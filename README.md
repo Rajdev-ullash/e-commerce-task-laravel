@@ -31,7 +31,7 @@ Installing
 Navigate into the project directory
 
 ```bash
-  cd e-commercer
+  cd e-commerce-task-laravel
 ```
 Install the required dependencies
 

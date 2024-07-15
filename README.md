@@ -38,7 +38,7 @@ Install the required dependencies
 ```bash
   npm install
   composer install
-  cp .env.example.env
+  cp .env.example .env
   setup db
   php artisan migrate --seed
 ```
